@@ -1,0 +1,24 @@
+.title {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.data-preco {
+    font-size: 20px;
+    font-weight: bold;
+    color: gold;
+}
+
+element.style {
+    cursor: pointer;
+}
+
+.brand {
+    height: 420px;
+    width: 266px;
+}
+
+.brand>a {
+    height: 100%;
+    width: 100%;
+}
